@@ -2,7 +2,7 @@
 
 Welcome to the CCSS Fall 2022 Webscraping in Python Workshop! We'll be using the following Google Colab notebook for both of the code demo sessions within the workshop. You can click on the following button to launch the notebook in another tab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1VwyM37dnepd2LaERcFU1kLcID9J487lJ?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VwyM37dnepd2LaERcFU1kLcID9J487lJ?usp=sharing)
 
 You can find the slides and the coding demo's base .ipynb file available for your reference within this repository as well.
 
